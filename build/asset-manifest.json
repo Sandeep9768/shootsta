@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shootsta/static/css/main.f51a5c2c.css",
+    "main.js": "/shootsta/static/js/main.7902fc8b.js",
+    "static/js/787.9c7a3d88.chunk.js": "/shootsta/static/js/787.9c7a3d88.chunk.js",
+    "index.html": "/shootsta/index.html",
+    "main.f51a5c2c.css.map": "/shootsta/static/css/main.f51a5c2c.css.map",
+    "main.7902fc8b.js.map": "/shootsta/static/js/main.7902fc8b.js.map",
+    "787.9c7a3d88.chunk.js.map": "/shootsta/static/js/787.9c7a3d88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f51a5c2c.css",
+    "static/js/main.7902fc8b.js"
+  ]
+}
